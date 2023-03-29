@@ -1,5 +1,5 @@
 {
-  "name": "open-telemetry/opentelemetry",
+  "name": "open-telemetry/opentelemetry-meta",
   "type": "metapackage",
   "description": "OpenTelemetry metapackage",
   "keywords": ["opentelemetry", "otel", "open-telemetry", "tracing", "logging", "metrics"],
